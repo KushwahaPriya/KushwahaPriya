@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priya Kushwaha </h1>
+<h1 align="center">Hi 👋, I'm Priya Kushwaha</h1>
 <h3 align="center">🚀 Web Development | 🤖 GenAI | ⚙️ AI/ML</h3>
 
 <p align="center">
@@ -12,17 +12,27 @@ to deliver impactful digital experiences. ✨
 
 ### 🌐 Connect with me
 <p align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/priya-kushwaha-6404272a3" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://linktr.ee/KushwahaPriya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="mailto:priyakushwaha416@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+<p align="center">
+📌 Instagram: <strong>@pri.ku</strong>
 </p>
 
 ---
 
 ### 🧠 Tech Expertise
+
 #### 🖥️ Programming & Frameworks:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,react,nextjs,nodejs,express,flask,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,react,nodejs,express,tailwind,bootstrap" />
 </p>
 
 #### 🗄️ Databases & Tools:
@@ -31,9 +41,9 @@ to deliver impactful digital experiences. ✨
 </p>
 
 #### 🤖 AI & Machine Learning:
-- Neural Networks | LLMs | Model Training
-- GenAI Automation & Integrations
-- Python ML Libraries: NumPy, Pandas, Scikit-Learn
+- Neural Networks | LLMs | Model Training  
+- GenAI Automation & Integrations  
+- Python ML Libraries: NumPy, Pandas, Scikit-Learn  
 
 ---
 
