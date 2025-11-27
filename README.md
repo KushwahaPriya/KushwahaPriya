@@ -1,61 +1,59 @@
-<h1 align="center">Hi 👋, I'm Priya Kushwaha</h1>
-<h3 align="center">Aspiring Developer | CSE Student | Tech Enthusiast</h3>
+# Hi 👋, I'm Priya Kushwaha
+**Aspiring Developer | CSE Student | Tech Enthusiast**
 
 ---
 
-## 👀 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=KushwahaPriya&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=KushwahaPriya&color=purple)
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/priya-kushwaha-6404272a3"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="mailto:priyakushwaha416@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-<a href="https://instagram.com/YOUR_INSTA"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="https://linktr.ee/KushwahaPriya"><img src="https://skillicons.dev/icons?i=link" height="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
 
 ---
 
 ## 💻 My Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,git,github,vscode" height="45"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats (Beautiful & Colourful)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KushwahaPriya&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushwahaPriya&layout=compact&theme=radical" height="170"/>
-</p>
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KushwahaPriya&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KushwahaPriya&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KushwahaPriya&theme=react-dark&hide_border=true)
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KushwahaPriya&theme=radical&hide_border=false" height="200"/>
-</p>
+## 🚀 About Me
+🎓 B.Tech (CSE), Jaypee University of Engineering and Technology, Guna  
+🌱 Currently learning **DSA, Python, Java, Web Development**  
+🔭 I love making projects & exploring new technologies  
+💬 Ask me about **Python, Java, HTML, CSS, JS, DBMS, DSA**  
+
+### 🔗 My Profiles
+- Hackerrank: [https://www.hackerrank.com/dashboard](https://www.hackerrank.com/dashboard)  
+- Infosys Springboard: [https://infyspringboard.onwingspan.com](https://infyspringboard.onwingspan.com)  
+
+⚡ Fun fact: I learn something new every day 🌟
 
 ---
 
-## 📈 GitHub Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KushwahaPriya&theme=react-dark"/>
-</p>
-
----
-
-## 🚀 About Me  
-- 🎓 B.Tech (CSE), Jaypee University of Engineering and Technology, Guna  
-- 🌱 Currently learning **DSA, Python, Java, Web Development**  
-- 🔭 I love making projects & exploring new technologies  
-- 💬 Ask me about **Python, Java, HTML, CSS, JS, DBMS, DSA**  
-- 🔗 My Profiles:  
-  - Hackerrank: https://www.hackerrank.com/dashboard  
-  - Infosys Springboard: https://infyspringboard.onwingspan.com  
-- ⚡ Fun fact: I learn something new every day 🌟  
-
----
+## 🏆 Popular Repositories
+| Repository | Language |
+|------------|----------|
+| mad_project- | Java |
+| bus_ticket_booking_system | Python |
+| voting-website | HTML |
+| mad-tic-game-main | Public |
+| Email-Spam-Detection | Jupyter Notebook |
+| Food-Delivery-Web | JavaScript |
 
