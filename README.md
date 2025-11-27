@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priya Jha</h1>
+<h1 align="center">Hi 👋, I'm Priya Kushwaha </h1>
 <h3 align="center">🚀 Web Development | 🤖 GenAI | ⚙️ AI/ML</h3>
 
 <p align="center">
