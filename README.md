@@ -1,42 +1,86 @@
-👋 Hi, I’m Priya Jha
+<h1 align="center">Hi 👋, I'm Priya Jha</h1>
+<h3 align="center">🚀 Web Development | 🤖 GenAI | ⚙️ AI/ML</h3>
 
-🚀 Full-Stack | 🤖 Gen AI | ⚙️ AI Automation
-
-[PORTFOLIO](#) | [LINKEDIN](#) | [EMAIL](#)
-
----
-
-💡 **About Me**  
-I specialize in building **scalable web applications** and **AI-driven solutions** with a focus on high-performance, maintainable architectures.  
-My work blends frontend precision, backend efficiency, and AI integration to deliver impactful digital experiences.
+<p align="center">
+I specialize in building scalable web applications and AI-driven solutions  
+focused on high-performance, secure, and maintainable architectures.  
+Blending frontend precision, backend efficiency, and intelligence-driven automation  
+to deliver impactful digital experiences. ✨
+</p>
 
 ---
 
-🚀 **Tech Stack**  
-TypeScript | JavaScript | Next.js | React | LangChain | RAG Pipelines | Agentic AI | Prompt Engineering | LLM Integrations | Gradio | n8n | Node.js | Express | Firebase Auth | Clerk | Convex | PostgreSQL | Supabase | Git | Docker | Vercel | Render | Replit
+### 🌐 Connect with me
+<p align="center">
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
 
 ---
 
-📊 **GitHub Stats**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+### 🧠 Tech Expertise
+#### 🖥️ Programming & Frameworks:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,react,nextjs,nodejs,express,flask,tailwind,bootstrap" />
+</p>
+
+#### 🗄️ Databases & Tools:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,figma" />
+</p>
+
+#### 🤖 AI & Machine Learning:
+- Neural Networks | LLMs | Model Training
+- GenAI Automation & Integrations
+- Python ML Libraries: NumPy, Pandas, Scikit-Learn
 
 ---
 
-🛠️ **Projects**  
-| Project | Tech | Description |
-|---------|------|-------------|
-| Project A | React + Node.js | Scalable web app with AI features |
-| Project B | Next.js + Supabase | Full-stack web application |
-| Project C | LangChain + Gradio | AI automation tool |
+### 🔥 Featured Projects
+| Name | Tech | Description |
+|------|------|-------------|
+| AI Chat Web | React + Flask + GenAI | Smart conversational assistant |
+| Smart To-Do | React + LocalStorage | Minimal & productive UI |
+| Login Auth | Node + MongoDB | Secure user authentication system |
+
+> More exciting builds coming soon... 🚀
 
 ---
 
-🏆 **Achievements**  
-- Built multiple AI-integrated web apps  
-- Contributor to open-source AI projects  
-- Completed advanced courses in AI & Web Dev
+### 📊 GitHub Insights
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kushpriya&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushpriya&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushpriya&theme=tokyonight" />
+</p>
 
 ---
 
-⚡ Fun fact: I enjoy **experimenting with AI workflows** and **building full-stack apps** for real-world use cases.
+### 🏆 Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kushpriya&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### ✍️ Quote I Believe In
+> “Learning never stops — especially in technology 🚀”
+
+---
+
+### 🙋‍♀️ About Me
+- 👩‍💻 Full Stack & GenAI Developer  
+- 🔍 Passionate about solving real-world problems with smart technology  
+- 🎯 Goal: Build products that create meaningful impact  
+- 🎨 Hobbies: UI designing, Creativity & Badminton  
+
+---
+
+### 💜 Thanks for Visiting!
+<p align="center">
+⭐️ If you like my work, consider giving a star to my repositories ⭐️  
+</p>
