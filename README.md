@@ -1,16 +1,37 @@
-## Hi there 👋
+# Priya Kushwaha
 
-<!--
-**KushwahaPriya/KushwahaPriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there!  
+I am Priya, a passionate learner and aspiring developer who loves building and exploring new things in tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Web Development  
+- Python  
+- DSA (Data Structures & Algorithms)
+
+---
+
+### 🔧 Technologies & Tools
+- HTML, CSS, JavaScript  
+- Python  
+- Git & GitHub  
+- VS Code
+
+---
+
+### 📫 Contact Me  
+- **Phone:** +91 9770290716  
+- **Email:** yourmail@example.com  
+- **LinkedIn:** https://linkedin.com/in/your-id  
+- **GitHub:** https://github.com/KushwahaPriya  
+
+---
+
+### ⭐ GitHub Stats
+![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushwahaPriya&show_icons=true&theme=default)
+
+---
+
+### 💬 About Me  
+I enjoy solving problems, learning new technologies, and improving my skills every day.
